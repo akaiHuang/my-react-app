@@ -22,7 +22,7 @@ a {
 
 .HeroGroup {
   margin: 0 auto;
-  max-width: 500px;
+  max-width: 600px;
   /*低於500的時候100%呈現 */
   padding: 150px 50px;
   text-align: center;
